@@ -11,4 +11,5 @@
 #+EXCLUDE_TAGS: noexport
 #+CREATOR: Emacs 26.1 (Org mode 9.1.13)
 #+FILETAGS: 気, ki
+Objective:
 * Introduction
