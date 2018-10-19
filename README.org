@@ -12,6 +12,13 @@
 #+CREATOR: Emacs 26.1 (Org mode 9.1.13)
 #+FILETAGS: 気, ki
 Objective:
+
+#+BEGIN_QUOTE
+If I had an hour to solve a problem I'd spend 55 minutes thinking
+about the problem and 5 minutes thinking about solutions.
+
+Einstein 先生
+#+END_QUOTE
 * Introduction
 I'm testing some new ideas using my [[http://www.andrewmichaeldavis.com/emacs/lprog/org/web/2016/03/26/bring-org-to-the-web/][research methodologies]] that I
 honed at the [[http://medicalphysics.uchicago.edu/index.html][University of Chicago]]. I refined these ideas while
