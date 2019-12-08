@@ -5,7 +5,7 @@
 #+OPTIONS: timestamp:t title:t toc:t todo:t |:t
 #+TITLE: template
 #+AUTHOR: Andrew M Davis, PhD
-#+EMAIL: amdavis@posteo.net
+#+EMAIL: @reconmaster:matrix.org
 #+LANGUAGE: en
 #+SELECT_TAGS: export
 #+EXCLUDE_TAGS: noexport
@@ -20,7 +20,7 @@ about the problem and 5 minutes thinking about solutions.
 Einstein 先生
 #+END_QUOTE
 * Introduction
-I'm testing some new ideas using my [[http://www.andrewmichaeldavis.com/emacs/lprog/org/web/2016/03/26/bring-org-to-the-web/][research methodologies]] that I
+I'm testing some new ideas using my [[http://www.andrewmichaeldavis.com/org-mode/2016/03/26/bring-org-to-the-web.html][research methodologies]] that I
 honed at the [[http://medicalphysics.uchicago.edu/index.html][University of Chicago]]. I refined these ideas while
 working at [[https://istar.jhu.edu/][Johns Hopkins University]]. However I've now realized that
 these foundations began with my undergraduate education at [[http://unc.edu/][UNC]], [[https://duke.edu/][Duke]],
@@ -30,10 +30,10 @@ The real secret at work here is that it is important to design your
 problem correctly if you want to find anything useful. Otherwise you
 are simply wasting your [[https://en.wikipedia.org/wiki/Time][time]].
 
-Not only that, I've got some secret tricks hidden in here that I
-picked up while studying the ancient ways of [[https://en.wikipedia.org/wiki/Aikido][合気道]]. Intrigue me
-enough with your propositions to my axioms of research, and I'll start
-to unlock very interesting problems for us to solve together.
+Not only that, I've got some tricks hidden in here that I picked up
+while studying the ancient ways of [[https://en.wikipedia.org/wiki/Aikido][合気道]]. Intrigue me enough with
+your propositions to my axioms of research, and I'll start to unlock
+very interesting problems for us to solve together.
 
 Feel free to copy this conceptual framework for designing optimization
 problems that result in useful learning for the [[https://en.wikipedia.org/wiki/Human][Human]] [[https://en.wikipedia.org/wiki/Species][species]].
